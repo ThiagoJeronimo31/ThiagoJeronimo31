@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou estudando na FATEC Barueri <br>👯 Realizando o Curso de Gestão de TI<br>🤝Aprendendo a programar em Java e Python<br>🌱 Estou a procura de Estagio.<br>
+👯 Realizando o Curso de Gestão de TI (FATEC BARUERI)<br>🤝Aprendendo a programar em Java e Python<br>🌱 Estou a procura de Estagio.<br>
 
 
 ## 🌐 Socials:
