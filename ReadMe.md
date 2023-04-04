@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫  Sobre mim:
 👯 Realizando o Curso de Gestão de TI (FATEC BARUERI)<br>🤝Aprendendo a programar em Java e Python<br>🌱 Estou a procura de Estagio.<br>
 
 
